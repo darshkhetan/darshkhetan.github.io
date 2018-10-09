@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta name="google-site-verification" content="XVHn2jp9VFty_Z5Dec-bTf3jmkRHnvPYjZoPJp4Mf5A" />
+<meta name="google-site-verification" content="-NZyULTQrCbVIPSoZ7mN_MujL3q3mtRDJTGXYpESql4" />
 <meta http-equiv="refresh" content="0; URL=https://www.facebook.com/darshkhetandk">
 <meta name="keywords" content="automatic redirection">
 </head>
